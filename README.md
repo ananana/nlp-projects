@@ -10,6 +10,7 @@ See file in MTeams for project list + project-specific resources (TBD)
 
 - Google Scholar (search for author, paper name, topic ...; look at year of publication, publication venue, number of references)
 - ACL Anthology
+- LaTeX / Overleaf / Google Docs (for collaborative editing of papers and presentations)
 
 ### Technical / tools
 
