@@ -2,7 +2,7 @@
 
 ## Project list
 
-See file in MTeams for project list + project-specific resources (TBD)
+See file in MTeams for project list + project-specific resources
 
 ## Resources (general)
 
@@ -27,6 +27,7 @@ Advanced deep learning:
 
 - tensorflow
 - tensorflow-gpu + cuda (for intensive training)
+- keras
 - pytorch
 - huggingface (transformers, BERT etc)
 
