@@ -16,6 +16,12 @@ See file in MTeams for project list + project-specific resources
 
 Basic text processing and text classification in python: https://github.com/ananana/nlp-basics
 
+Text classification with deep learning: 
+- https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/20_Natural_Language_Processing.ipynb
+- https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb
+
+Libraries and tools:
+
 - nltk
 - spacy
 - sklearn
