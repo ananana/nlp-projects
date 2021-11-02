@@ -44,4 +44,5 @@ Web scraping:
 - requests, BeautifulSoup
 
 Google Colaboratory for running experiments remotely:
-- https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb etc
+https://colab.research.google.com/
+- https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb
