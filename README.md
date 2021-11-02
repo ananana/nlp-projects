@@ -17,9 +17,9 @@ See file in MTeams for project list + project-specific resources
 Basic text processing and text classification in python: https://github.com/ananana/nlp-basics
 
 Text classification with deep learning: 
-- https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/20_Natural_Language_Processing.ipynb
-- https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb
-- https://towardsdatascience.com/colab-free-gpu-ssh-visual-studio-code-server-36fe1d3c5243
+- 1 (feed-forward NN): https://www.tensorflow.org/tutorials/keras/text_classification#download_and_explore_the_imdb_dataset
+- 2 (recurrent NN): https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/20_Natural_Language_Processing.ipynb
+- 3 (transformers): https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb
 
 Libraries and tools:
 
@@ -42,3 +42,6 @@ Web scraping:
 
 - scrapy
 - requests, BeautifulSoup
+
+Google Colaboratory for running experiments remotely:
+- https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb etc
