@@ -19,7 +19,7 @@ Basic text processing and text classification in python: https://github.com/anan
 Text classification with deep learning: 
 - 1 (feed-forward NN): https://www.tensorflow.org/tutorials/keras/text_classification#download_and_explore_the_imdb_dataset
 - 2 (recurrent NN): https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/20_Natural_Language_Processing.ipynb
-- 3 (transformers classification): https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb
+- 3 (transformers): https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb , https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/fine_tune_bert.ipynb
 
 Libraries and tools:
 
