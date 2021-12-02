@@ -19,7 +19,7 @@ Basic text processing and text classification in python: https://github.com/anan
 Text classification with deep learning: 
 - 1 (feed-forward NN): https://www.tensorflow.org/tutorials/keras/text_classification#download_and_explore_the_imdb_dataset
 - 2 (recurrent NN): https://colab.research.google.com/github/Hvass-Labs/TensorFlow-Tutorials/blob/master/20_Natural_Language_Processing.ipynb
-- 3 (transformers): https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb
+- 3 (transformers classification): https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/classify_text_with_bert.ipynb
 
 Libraries and tools:
 
@@ -36,7 +36,7 @@ Advanced deep learning:
 - tensorflow-gpu + cuda (for intensive training)
 - keras
 - pytorch
-- huggingface (transformers, BERT etc)
+- Pretrained models (transformers, BERT etc): [TF-hub](https://tfhub.dev/s?subtype=module,placeholder), [huggingface](https://huggingface.co/models) 
 
 Web scraping:
 
